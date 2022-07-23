@@ -1,1 +1,1 @@
-# css-exercise
+# A website built from pure html and css
