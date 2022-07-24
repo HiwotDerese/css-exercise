@@ -1,0 +1,40 @@
+.Ethiopia{
+    /* background-color: green; */
+    padding: 30px;
+    width: 400px;
+}
+.green{
+    background-color: green;
+    padding: 30px;
+}
+.yellow{
+    background-color: yellow;
+    padding: 30px;
+}
+.red{
+    background-color: red;
+    padding: 30px;
+}
+
+/* .star {
+    position: relative;
+    bottom: 170px;
+    left: 100px;
+    width: 0;
+    height: 0;
+    border-left: 55px solid transparent;
+    border-right: 55px solid transparent;
+    border-bottom: 90px solid blue;
+  }
+  
+  .star:after {
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: 50px;
+    left: -75px;
+    content: "";
+    border-left: 75px solid transparent;
+    border-right: 75px solid transparent;
+    border-top: 90px solid blue;
+  } */
