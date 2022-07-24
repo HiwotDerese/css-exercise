@@ -102,3 +102,22 @@
     position: relative;
     bottom: 565px;
 }
+
+.costa-blue1{
+    padding: 15px;
+    background-color: blue;
+    position: relative;
+    bottom: 450px;
+}
+.costa-red{
+    padding: 30px;
+    background-color: red;
+    position: relative;
+    bottom: 420px;
+}
+.costa-blue2{
+    padding: 15px;
+    background-color: blue;
+    position: relative;
+    bottom: 390px;
+}
