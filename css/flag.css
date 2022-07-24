@@ -44,85 +44,91 @@
 .south-red{
     padding: 30px;
     background-color: red;
-    /* width: 0;
-    height: 0;
-    border-left: 35px solid transparent;
-    border-right: 35px solid transparent; */
-    /* border-bottom: 35px solid black; */
-    /* border-top: 35px solid black; */
+}
+.south-white{
+    padding: 30px;
+    background-color: white;
 }
 .south-blue{
     padding: 30px;
-    background-color: rgb(6, 6, 174);
-    position: relative;
-    bottom: -30px;
-
-}
-.south-green{
-    width: 220px;
-    padding: 15px;
-    background-color: green;
-    position: relative;
-    bottom: -16px;
-    left: 150px;
+    background-color: blue;
 }
 .south-white2{
     width: 0;
     height: 0;
     border-top: 90px solid transparent;
     border-bottom: 90px solid transparent;
-    border-left: 180px solid white;
+    border-left: 100px solid white;
     position: relative;
-    bottom: 150px;
+    bottom: 180px;
+    left: 80px;
+}
+.south-white3{
+    width: 20px;
+    height: 180px;
+    background-color: white;
+    position: relative;
+    bottom: 360px;
+    left: 60px;
+}
+.south-green{
+    padding: 20px;
+    background-color: green;
+    position: relative;
+    bottom: 470px;
 }
 .south-green2{
     width: 0;
     height: 0;
-    border-top: 80px solid transparent;
-    border-bottom: 80px solid transparent;
-    border-left: 185px solid green;
+    border-top: 90px solid transparent;
+    border-bottom: 90px solid transparent;
+    border-left: 100px solid green;
     position: relative;
-    bottom: 320px;
+    bottom: 580px;
+    left: 60px;
+}
+.south-green3{
+    width: 60px;
+    height: 180px;
+    background-color: green;
+    position: relative;
+    bottom: 760px;
 }
 .south-yellow{
     width: 0;
     height: 0;
-    border-top: 60px solid transparent;
-    border-bottom: 60px solid transparent;
-    border-left: 120px solid yellow;
+    border-top: 90px solid transparent;
+    border-bottom: 90px solid transparent;
+    border-left: 100px solid yellow;
     position: relative;
-    bottom: 460px;
+    bottom: 940px;
 }
 .south-black{
     width: 0;
     height: 0;
-    border-top: 45px solid transparent;
-    border-bottom: 45px solid transparent;
-    border-left: 100px solid black;
+    border-top: 70px solid transparent;
+    border-bottom: 70px solid transparent;
+    border-left: 80px solid black;
     position: relative;
-    bottom: 565px;
+    bottom: 1100px;
 }
-/* .costa-rica{
-    border-style: solid;
-    background-color: rebeccapurple;
-} */
-.costa-blue1{
+ .costa-blue1{
     padding: 15px;
     background-color: blue;
     position: relative;
-    bottom: 450px;
+    bottom: 950px;
 }
 .costa-red{
     padding: 30px;
     background-color: red;
     position: relative;
-    bottom: 420px;
+    bottom: 920px;
 }
 .costa-blue2{
     padding: 15px;
     background-color: blue;
     position: relative;
-    bottom: 390px;
+    bottom: 890px;
 }
 .france-blue{
     padding: 30px;
@@ -135,7 +141,7 @@
     border-width: 1px;
     display: flex;
     position: relative;
-    bottom: 320px;
+    bottom: 820px;
     min-height: 200px;
 }
 .france-red{
@@ -143,4 +149,4 @@
     background-color: red;
     position: relative;
     left: 50px;
-}
+} 

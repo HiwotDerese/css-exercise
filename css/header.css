@@ -30,6 +30,10 @@ nav{
     position: relative;
     top: 30px;
 }
+.nav2 a{
+    text-decoration: none;
+    color: black;
+}
 .dropdown{
     float: left;
     overflow: hidden;
